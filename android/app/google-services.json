@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060219606030",
+    "project_id": "cobafire-b9df9",
+    "storage_bucket": "cobafire-b9df9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060219606030:android:33d51d3718f1514cda585f",
+        "android_client_info": {
+          "package_name": "com.example.coba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqavkzc0EJwNgys939y1QZSLEnBf0yAww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060219606030:android:6381c70b8fa3cce1da585f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqavkzc0EJwNgys939y1QZSLEnBf0yAww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
